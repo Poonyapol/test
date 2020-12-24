@@ -1,0 +1,2 @@
+4.
+else and finally There is a difference in that else when the conditions are not met, the program will be terminated immediately, but finally It will bring that condition up again, but if the command return or break the condition that has been.
